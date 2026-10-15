@@ -6,3 +6,5 @@ The following are examples of how this function would be used and what the expec
 flatten(1, [2, 3], 4, 5, [6, [7]]) ==> [1, 2, 3, 4, 5, 6, 7]
 flatten('a', ['b', 2], 3, 666, [[4], ['c']]) ==> ['a', 'b', 2, 3, 666, 4, 'c']
 ```
+
+source: https://www.codewars.com/kata/513fa1d75e4297ba38000003
