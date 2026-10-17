@@ -20,4 +20,4 @@ a `toString()` method, so that using the vectors from above, `a.toString() === '
 an equals method, to check that two vectors that have the same components are equal
 Note: the test cases will utilize the user-provided equals method.
 
-source: https://www.codewars.com/kata/526dad7f8c0eb5c4640000a4/train/javascript
+source: https://www.codewars.com/kata/526dad7f8c0eb5c4640000a4
